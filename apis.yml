@@ -28,7 +28,7 @@ accessModel:
   method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-08-08'
 image: https://orcabio.com/wp-content/themes/orca-corporate-theme/assets/img/favicon/favicon-196x196.png
 tags:
 - Company
@@ -53,8 +53,12 @@ common:
   url: https://orcabio.com/newsroom/
 - type: About
   url: https://orcabio.com/our-company/
+- type: Support
+  url: https://orcabio.com/contact-us/
 x-enrichment:
   date: '2026-07-20'
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-merged-from:
+- orca-bio
