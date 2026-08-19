@@ -26,7 +26,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-08-08'
 image: https://orcabio.com/wp-content/themes/orca-corporate-theme/assets/img/favicon/favicon-196x196.png
